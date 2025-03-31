@@ -7,8 +7,6 @@
 
 - 📫 Como entrar em contato comigo **gabriel.amazonas.cury30@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [Indivíduo versátil com experiência em coletar, transformar e organizar dados para análise que ajudam na tomada de decisões informadas. Excelente compreensão e proficiência de plataformas para análises de dados eficazes, incluindo SQL, planilhas, Tableau e R. Fortes habilidades de comunicação, organização e análise. Recentemente, concluiu o Certificado de Data Analytics do Google - um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados.](Indivíduo versátil com experiência em coletar, transformar e organizar dados para análise que ajudam na tomada de decisões informadas. Excelente compreensão e proficiência de plataformas para análises de dados eficazes, incluindo SQL, planilhas, Tableau e R. Fortes habilidades de comunicação, organização e análise. Recentemente, concluiu o Certificado de Data Analytics do Google - um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados.)
-
 - ⚡ Curiosidade **No meu tempo livre gosto de jogar e assistir animes**
 
 <h3 align="left">Connect with me:</h3>

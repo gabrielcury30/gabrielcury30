@@ -1,36 +1,25 @@
-# Bem-vindo ao Meu Perfil do GitHub 👋
+<h1 align="center">Olá 👋, Eu sou Gabriel Cury</h1>
+<h3 align="center">Um brasileiro entusiasta em análise de dados</h3>
 
-## Sobre Mim
-Olá! Sou Gabriel Cury, um entusiasta de tecnologia apaixonado por desenvolvimento de software e tudo relacionado ao mundo da programação. Atualmente, estou aprendendo e explorando diferentes tecnologias para expandir meu conhecimento e habilidades.
+- 🌱 Estou aprendendo atualmente **MySQL, Python, PowerBI e outras técnicas da análise de dados**
 
-- 🌱 Atualmente estou aprendendo os fundamentos da programação e conceitos básicos de desenvolvimento de software.
-- 👯 Estou interessado em colaborar em projetos simples para iniciantes ou em aprender com outros desenvolvedores mais experientes.
-- 💬 Estou aberto a qualquer dica, sugestão ou conselho sobre como começar neste mundo da programação.
+- 💬 Pergunte-me sobre **Excel, Google Sheets, BigQuery, Tableau, R e análise de dados**
 
-## Objetivos
-- Meu objetivo principal é aprender e crescer como desenvolvedor.
-- Estou ansioso para construir uma base sólida de conhecimento em programação e tecnologia.
+- 📫 Como entrar em contato comigo **gabriel.amazonas.cury30@gmail.com**
 
-<!-- ## Linguagens e Ferramentas
-- Linguagens: [insira as linguagens que você sabe]
-- Ferramentas e Frameworks: [insira as ferramentas e frameworks que você usa] -->
+- 📄 Saiba mais sobre minhas experiências [Indivíduo versátil com experiência em coletar, transformar e organizar dados para análise que ajudam na tomada de decisões informadas. Excelente compreensão e proficiência de plataformas para análises de dados eficazes, incluindo SQL, planilhas, Tableau e R. Fortes habilidades de comunicação, organização e análise. Recentemente, concluiu o Certificado de Data Analytics do Google - um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados.](Indivíduo versátil com experiência em coletar, transformar e organizar dados para análise que ajudam na tomada de decisões informadas. Excelente compreensão e proficiência de plataformas para análises de dados eficazes, incluindo SQL, planilhas, Tableau e R. Fortes habilidades de comunicação, organização e análise. Recentemente, concluiu o Certificado de Data Analytics do Google - um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados.)
 
-<!-- ## Projetos Destacados
-- [Projeto 1]: Breve descrição do projeto
-- [Projeto 2]: Breve descrição do projeto
-- [Projeto 3]: Breve descrição do projeto -->
+- ⚡ Curiosidade **No meu tempo livre gosto de jogar e assistir animes**
 
-## Como me Encontrar
-<!-- - LinkedIn: [Seu perfil do LinkedIn] -->
-- Email: gabriel.amazonas.cury31@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabrielcury30&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Linguagens Mais Usadas
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcury30&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcury30&show_icons=true&locale=en&layout=compact" alt="gabrielcury30" /></p>
 
-<!-- ## Contribuições
-Contribua para meus projetos ou crie issues para sugestões e melhorias! -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcury30&show_icons=true&locale=en" alt="gabrielcury30" /></p>
 
-Obrigado por visitar meu perfil! 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcury30&" alt="gabrielcury30" /></p>
